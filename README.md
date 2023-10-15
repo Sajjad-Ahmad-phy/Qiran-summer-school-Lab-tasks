@@ -8,3 +8,6 @@ The topics covered during the workshop are:
 4. Introduction to Cirq, Grover Algorithm revisited
 5. Max-Cut Problem and Bipartite Graphs
 6. Adders and Numbers Checking, Grover algorithm for Max-Cut Problem
+
+Details can be found here:
+https://qworld.net/qnickel5/
